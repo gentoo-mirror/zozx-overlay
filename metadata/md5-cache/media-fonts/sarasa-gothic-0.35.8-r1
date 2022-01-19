@@ -12,4 +12,4 @@ RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://github.com/be5invis/Sarasa-Gothic/releases/download/v0.35.8/sarasa-gothic-ttf-0.35.8.7z
 _eclasses_=font	0667878c2b594871023dd1833d05996f
-_md5_=2c17dc43d52ef9a322ccbf74b1a470cc
+_md5_=0ac0acb80a80fd077e871b683da69526
