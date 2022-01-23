@@ -1,5 +1,5 @@
-DEFINED_PHASES=configure install
-DESCRIPTION=A Preloader which is signed for Secure Boot.
+DEFINED_PHASES=install unpack
+DESCRIPTION=A PreLoader which is signed for Secure Boot.
 EAPI=8
 HOMEPAGE=https://blog.hansenpartnership.com/linux-foundation-secure-boot-system-released
 KEYWORDS=~amd64
@@ -7,4 +7,4 @@ LICENSE=GPL-2 LGPL-2.1
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://blog.hansenpartnership.com/wp-uploads/2013/PreLoader.efi https://blog.hansenpartnership.com/wp-uploads/2013/HashTool.efi
-_md5_=9dd448b9bde22bd542b39af06f4ee1dc
+_md5_=be2eeccec22b012a3cfed3d1ff93b8c2
