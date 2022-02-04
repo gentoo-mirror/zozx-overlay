@@ -1,4 +1,5 @@
 app-office/freeoffice 1042: A complete, free Microsoft Office-compatible alternative office suite
 media-fonts/sarasa-gothic 0.35.8-r1: A CJK programming font based on Iosevka and Source Han Sans.
 media-sound/yesplaymusic-bin 0.4.3: A third party music player for Netease Music
+net-proxy/clash-for-windows-bin 0.19.7: A Windows/macOS/Linux GUI based on Clash and Electron.
 sys-boot/preloader-signed 20130208: A PreLoader which is signed for Secure Boot.
