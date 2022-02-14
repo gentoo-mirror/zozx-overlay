@@ -3,3 +3,5 @@
 # * generated automatically using pmaint *
 
 media-fonts/sarasa-gothic:classical - Keep classical orthography .ttf files.
+sys-kernel/liquorix-sources:cjk - Enable cjktty Patches.
+virtual/linux-sources:firmware - Install linux kernel firmware
