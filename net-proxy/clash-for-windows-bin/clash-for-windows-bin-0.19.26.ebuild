@@ -9,10 +9,9 @@ DESCRIPTION="A Windows/macOS/Linux GUI based on Clash and Electron."
 HOMEPAGE="https://github.com/Fndroid/clash_for_windows_pkg"
 SRC_URI="https://github.com/Fndroid/clash_for_windows_pkg/releases/download/${PV}/Clash.for.Windows-${PV}-x64-linux.tar.gz"
 
-LICENSE="GPL-3"
+LICENSE="no-source-code"
 SLOT="0"
 KEYWORDS="~amd64"
-IUSE="+tun"
 
 RESTRICT="mirror"
 
@@ -22,8 +21,7 @@ QA_PREBUILT="*"
 RDEPEND="
 	x11-libs/gtk+:3
 	x11-libs/libXScrnSaver
-	dev-libs/nss
-	tun?( net-firewall/nftables )"
+	dev-libs/nss"
 
 S="${WORKDIR}"
 
@@ -41,5 +39,6 @@ src_install() {
 }
 
 pkg_postinst() {
+	ewarn "To use TUN mode, net-firewall/nftables is required."
 	xdg_icon_cache_update
 }
