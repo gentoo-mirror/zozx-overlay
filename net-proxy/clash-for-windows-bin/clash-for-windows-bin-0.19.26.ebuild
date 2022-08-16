@@ -23,9 +23,7 @@ RDEPEND="
 	x11-libs/gtk+:3
 	x11-libs/libXScrnSaver
 	dev-libs/nss
-	tun? (
-		net-firewall/nftables
-	)"
+	tun?( net-firewall/nftables )"
 
 S="${WORKDIR}"
 
