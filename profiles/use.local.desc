@@ -3,3 +3,4 @@
 # * generated automatically using pmaint *
 
 media-fonts/sarasa-gothic:classical - Keep classical orthography .ttf files.
+net-proxy/clash-for-windows-bin:tun - Enable TUN support.
