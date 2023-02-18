@@ -2,6 +2,6 @@ app-office/freeoffice 1058 1060: A complete, free Microsoft Office-compatible al
 games-util/watt-toolkit-bin 2.8.6: An Open-Source Toolkit for Steam
 media-fonts/sarasa-gothic 0.40.0 0.40.1: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
 media-sound/yesplaymusic-bin 0.4.6 0.4.7: A third party music player for Netease Music
-media-video/bilibili-bin 1.8.2 1.9.0: Bilibili desktop client
+media-video/bilibili-bin 1.9.0 1.9.1: Bilibili desktop client
 net-proxy/clash-for-windows-bin 0.20.11 0.20.12: A Windows/macOS/Linux GUI based on Clash and Electron.
 sys-boot/preloader-signed 20130208: A PreLoader which is signed for Secure Boot.
