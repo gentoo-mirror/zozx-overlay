@@ -1,6 +1,6 @@
 app-office/freeoffice 1060 1062: A complete, free Microsoft Office-compatible alternative office suite.
 games-util/watt-toolkit-bin 2.8.6: An Open-Source Toolkit for Steam
-media-fonts/sarasa-gothic 0.40.3 0.40.5: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
+media-fonts/sarasa-gothic 0.40.5 0.40.7: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
 media-sound/yesplaymusic-bin 0.4.6 0.4.7: A third party music player for Netease Music
 media-video/bilibili-bin 1.9.0 1.9.1: Bilibili desktop client
 net-proxy/clash-for-windows-bin 0.20.11 0.20.12: A Windows/macOS/Linux GUI based on Clash and Electron.
